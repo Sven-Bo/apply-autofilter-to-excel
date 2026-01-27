@@ -17,10 +17,11 @@ pandas==1.3.5
 ```
 
 
-## 💡 Explore My Solutions
-From Excel add-ins to messaging tools and logistics solutions.
-
-👉 **[See All Solutions](https://pythonandvba.com/solutions)**
+## More Solutions
+Check out my full collection of Excel automation tools for messaging, logistics, document generation, and AI integration.
+<a href="https://pythonandvba.com/solutions">
+  <img src="https://img.shields.io/badge/View%20All%20Solutions-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="View All Solutions">
+</a>
 ## Connect with Me
 - **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
