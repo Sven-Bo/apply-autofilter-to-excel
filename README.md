@@ -19,8 +19,8 @@ pandas==1.3.5
 
 ## More Solutions
 Explore my tools and templates for Excel, automation, and more.
-**[View all solutions](https://pythonandvba.com/solutions)**
 
+**[View all solutions](https://pythonandvba.com/solutions)**
 ## Connect with Me
 - **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
